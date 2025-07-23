@@ -38,6 +38,5 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: dimgray;
     width: 50%;
 }
